@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2019-12-16_17-00-14)(type Legacy)(uri ${KIPRJMOD}/ul_LTC1045CSWPBF/KiCAD/2019-12-16_17-00-14/2019-12-16_17-00-14.lib)(options "")(descr ""))
+  (lib (name bspd)(type Legacy)(uri ${KIPRJMOD}/bspd.lib)(options "")(descr ""))
+)
